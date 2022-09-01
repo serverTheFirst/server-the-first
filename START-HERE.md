@@ -17,31 +17,7 @@ From there the rest is history.
 
 <h1>what is serverthefirst<h1>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Twelve months ago I did not know how to wire a relay. I did not know how to code an arduino, I did not know how to *use* a computer. I lived in the digital world as many of us do: unaware of the constant eye of cloud services looking over their shoulder. My job requires a low level understanding of a lot of disciplines in order to do it well. There are many axe bars and escape rooms that get by doing less (read: nothing at all) but I have really high aspirations and I would like to build a system that easily helps me move from project to project.
+Twelve months ago I did not know how to wire a relay. I did not know how to code an arduino, I did not know how to *use* a computer. I loved in the digital world as many of us do: unaware of the constant eye of cloud services. My job requires a low level understanding of a lot of disciplines in order to do it well. There are many axe bars and escape rooms that get by doing less (read: nothing at all) but I have really high aspirations and I would like to build a system that easily helps me move from project to project.
 
 The hardest part of this project for me is that there has been no roadmap. That is the precise goal of this project - to provide new users with a roadmap that will help them build one server from beginning to end with mimimal downtime and troubleshooting. There are guides and videos and websites that all help you install individual applications but they are all designed for more advanced users who are installing those apps on their own, unique server.
 
