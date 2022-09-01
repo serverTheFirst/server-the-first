@@ -22,3 +22,5 @@ Twelve months ago I did not know how to wire a relay. I did not know how to code
 The hardest part of this project for me is that there has been no roadmap. That is the precise goal of this project - to provide new users with a roadmap that will help them build one server from beginning to end with mimimal downtime and troubleshooting. There are guides and videos and websites that all help you install individual applications but they are all designed for more advanced users who are installing those apps on their own, unique server.
 
 The serverthefirst project will take new users who have very little understanding of computing through the process of building an entire unRAID server. Every app review, every dummy sheet, every port, and every setting in any of the guides will work on the stf template server.
+
+
