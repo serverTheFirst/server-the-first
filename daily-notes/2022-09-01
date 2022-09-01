@@ -1,0 +1,5 @@
+I got some good help from a reddit user today who said that he has never seen a github repository so corrupted - or corrupted this way. In any event I think my issue was the fast that I was using a smb share to store my workspaces/repos. And I probably had the same files open on two devices. 
+
+Don't do that. Save you repos and your workspaces locally. I commit a lot instead of doing a lot of work and having a major update. I would presume that professionals have layers and layers of this and would manage things differently.
+
+I am considering abandoning foam because I may prefer to do this whole thing in plain text and format with some notes. I think I forgot or didn't realize that other people see the rendered version and it was/is ugly af.
