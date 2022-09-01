@@ -37,6 +37,8 @@ TOTO task manager
 
 6. **Sprint before crawl** - this is a big deal for anyone coming into this hobby and following my guide: you have no idea what you don't (and won't) know how to do. Even if you follow the guides here there will be mountains and mountains of reading if you want to go beyond what this server can do for you. 
 
+7. **Learn your tools** - this is no different than auto mechanics or construction. There are more tools for the job than an outsider thinks, and there are a few tools that lots of people misuse or workaround to get their tasks done. The more time you devote to working with your tools and learning how to use them properly, the less time you'll spend pounding on a keyboard.
+
 
 
 
