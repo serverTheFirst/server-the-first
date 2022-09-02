@@ -3,7 +3,17 @@
 tldr - I am using github as a personal knowledge base as I wind my way through the process of becoming truly tech literate at the ripe old age of 42. These notes will be filled with spelling errors and grammatical mistakes because the represent my thoughts in the moment. I will take care to keep things as fresh as possible and continue updating my notes as I go.
 
 
-<hi>about-me<h1>
+
+
+
+
+
+
+
+
+
+
+<hi>about-me</h1>
 
 I have a fairly interesting background, almost none of it is in technology. I have experience in restaurants, hotels, corporations, tech companies (bus dev), and currently I own a few escape rooms, an axe bar, and a small kitchen with my wife.
 
