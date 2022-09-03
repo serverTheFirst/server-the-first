@@ -1,5 +1,10 @@
 # 2022-09-03
 
-I am surprised that I have kept up with this as long as I have, and this has only been a few days since I started. Markdown is kind of killing some of the formatting joy for me in vs code. \
-\
+I am surprised that I have kept up with this as long as I have, and this has only been a few days since I started. Markdown is kind of killing some of the formatting joy for me in vs code. 
+
+I killed markdown. I could not keep a thought going in my head when i was constantly having to do a whole bunch of extra shit just to 
+
+skip to another line.  I realize that to a lot of folks this may be second nature, but it's too tedious for me and it got in the way of my writing. I think this will be easier for me, but harder to read for some users.
+
+I am going to play around with better comments now to color code my notes in vs code.
 
